@@ -1,5 +1,7 @@
 project:
   name: k-serial
+  distribute:
+    - kserial.kum
 
 sdk:
   compiler:
