@@ -3,7 +3,8 @@ project:
   distribute:
     - kserial.kum
 
-sdk:
-  compiler:
-  release:
-  debug:
+settings:
+  sdk:
+    compiler:
+    release:
+    debug:
