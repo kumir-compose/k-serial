@@ -1,0 +1,7 @@
+project:
+  name: k-serial
+
+sdk:
+  compiler:
+  release:
+  debug:
