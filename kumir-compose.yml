@@ -2,9 +2,3 @@ project:
   name: k-serial
   distribute:
     - kserial.kum
-
-settings:
-  sdk:
-    compiler:
-    release:
-    debug:
